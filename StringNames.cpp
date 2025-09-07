@@ -2,16 +2,20 @@
 //               Language: C++ / Cpp
 //               Topic   : [Array]
 //               Problem :👉👉 [2]
-//               Want    : StringCars          
+//               Want    : StringNames        
 // ================================================
 #include <iostream>
 using namespace std;
 int main(){
-    int n;
-    cout<< "Enter number " ;
-    cin>> n;
-    return 0 ;
+    string  names [] = {"coder" , "Programmer" , "Cyber Expart "};
+         int size = sizeof(names) / sizeof(names[0]) ;
+    for (int i = 0; i <size; i++)
+    {
+      cout<<names[i] <<" "  <<endl ; 
+    }
     
+    return 0 ;
+
 }
 
 
