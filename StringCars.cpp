@@ -11,6 +11,7 @@ int main(){
     cout<< "Enter number " ;
     cin>> n;
     return 0 ;
+    
 }
 
 
