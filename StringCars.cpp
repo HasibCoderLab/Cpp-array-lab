@@ -1,8 +1,8 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [Array]
-//               Problem :👉👉 [1]
-//               Want    : FunctoinCallingItSelf                     
+//               Problem :👉👉 [2]
+//               Want    : StringCars          
 // ================================================
 #include <iostream>
 using namespace std;
@@ -14,4 +14,3 @@ int main(){
 }
 
 
- git commit -m"solve 1st problem of 'Array'in C++"  
