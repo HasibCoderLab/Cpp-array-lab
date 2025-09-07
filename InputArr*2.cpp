@@ -13,5 +13,3 @@ int main(){
     return 0 ;
 }
 
-
- git commit -m"solve 1st problem of 'Array'in C++"  
