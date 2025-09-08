@@ -2,7 +2,7 @@
 //               Language: C++ / Cpp
 //               Topic   : [Array]
 //               Problem :👉👉 [8]
-//               Want    : CakculateSumOfArr.cpp
+//               Want    : CalculateSumOfArr.cpp
 // ================================================
 #include <iostream>
 using namespace std;
